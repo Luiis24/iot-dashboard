@@ -2,7 +2,7 @@
 
 Dashboard web para supervisar sensores de temperatura y humedad en una operación agrícola: invernaderos, cuarto frío y secadero. Los nodos ESP32 son **simulados** en el navegador, pero el proyecto está diseñado para que, cuando se conecten dispositivos reales, **no haya que tocar la interfaz**.
 
-**Demo en vivo:** _pega aquí el link de Vercel o Netlify_
+**Demo en vivo:** https://iot-dashboard-simulator.netlify.app/
 **Autor:** Luis Morales, desarrollador Frontend / Full Stack
 
 ---
